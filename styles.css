@@ -1,0 +1,52 @@
+/*<style>
+  .attribution { font-size: 11px; text-align: center; }
+  .attribution a { color: hsl(228, 45%, 44%); }
+</style>
+*/
+
+body{
+  background-color: #C9EEFF;
+}
+h1{
+  font-size: 15px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  padding: 5px 10px;
+}
+
+p{
+  font-size: 10px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: grey;
+  padding: 0 10px;
+}
+
+.phone{
+  background-color: #ffffff;
+  border-radius: 15px;
+  padding: 10px 10px 40px 10px;
+  width: 200px;
+  height: 300px;
+  margin: auto;
+}
+
+.qr{
+  width:100%;
+  border-radius: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  font-size: 7px;
+ }
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  text-decoration: none;
+ }
